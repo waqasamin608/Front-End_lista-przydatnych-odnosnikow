@@ -160,3 +160,8 @@ http://uipatterns.io/ <br>
 https://medium.com/@ravinot/the-ultimate-front-end-development-list-for-2015-5409727c28b4#.9o2ztpqtu <br>
 http://usemodify.com/ <br>
 http://wwwhere.io/ <br>
+https://www.smashingmagazine.com/2016/04/web-developer-guide-color/ <br>
+http://bitsofco.de/styling-broken-images/ <br>
+http://instantlogosearch.com/ <br>
+http://www.typegenius.com/ <br>
+http://colinkeany.com/blend/ <br>
