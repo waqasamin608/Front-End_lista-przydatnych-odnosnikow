@@ -54,6 +54,7 @@ https://developer.mozilla.org/pl/docs/Web <br>
 https://developer.mozilla.org/en-US/docs/Web <br>
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#selector-type <br>
 http://marksheet.io/ <br>
+https://www.rtfmanual.io/ <br>
 
 # E-learning
 
@@ -67,6 +68,7 @@ http://daneden.github.io/animate.css/ <br>
 http://www.minimamente.com/example/magic_animations/ <br>
 http://lab.hakim.se/ <br>
 http://www.cloud-eight.com/github/animations/ <br>
+http://maintainablecss.com/ <br>
 
 Bootstrap: <br>
 
@@ -165,3 +167,6 @@ http://bitsofco.de/styling-broken-images/ <br>
 http://instantlogosearch.com/ <br>
 http://www.typegenius.com/ <br>
 http://colinkeany.com/blend/ <br>
+https://enboard.co/webdesign/ <br>
+https://github.com/necolas/idiomatic-css/tree/master/translations/pl-PL <br>
+https://github.com/jlmakes/scrollreveal.js <br>
