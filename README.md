@@ -100,12 +100,13 @@ http://gtmetrix.com/ <br>
 https://developers.google.com/speed/pagespeed/insights/ <br>
 https://symu.co/ <br>
 
-# Stock ze zdjęciami
+# Stock ze zdjęciami i filmami
 
 http://www.pexels.com/ <br>
 http://www.sitebuilderreport.com/stock-up <br>
 http://klosinski.net/banki-z-darmowymi-zdjeciami/ <br>
 http://alana.io/?utm_content=bufferbf585&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer <br>
+http://www.wedistill.io/ ```NOWY_LINK``` <br>
 
 # Strony z rozwiązaniami, wtyczki, ciekawostki
 
@@ -170,3 +171,6 @@ http://colinkeany.com/blend/ <br>
 https://enboard.co/webdesign/ <br>
 https://github.com/necolas/idiomatic-css/tree/master/translations/pl-PL <br>
 https://github.com/jlmakes/scrollreveal.js <br>
+http://jackonthe.net/css3animateit/examples/ ```NOWY_LINK``` <br>
+http://defonic.com/ ```NOWY_LINK``` <br>
+http://jgthms.com/web-design-in-4-minutes/ ```NOWY_LINK``` <br>
