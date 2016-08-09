@@ -174,3 +174,4 @@ https://github.com/jlmakes/scrollreveal.js <br>
 http://jackonthe.net/css3animateit/examples/ ```NOWY_LINK``` <br>
 http://defonic.com/ ```NOWY_LINK``` <br>
 http://jgthms.com/web-design-in-4-minutes/ ```NOWY_LINK``` <br>
+https://www.supremo.tv/typeterms/ ```NOWY_LINK``` <br>
