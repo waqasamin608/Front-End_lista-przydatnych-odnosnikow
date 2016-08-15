@@ -176,4 +176,4 @@ http://defonic.com/ <br>
 http://jgthms.com/web-design-in-4-minutes/ <br>
 https://www.supremo.tv/typeterms/ ```NOWY_LINK``` <br>
 http://dailyweb.pl/tutorial-kompleksowy-przewodnik-po-6-rodzajach-anchor-text-linkow-jak-i-kiedy-stosowac/ ```NOWY_LINK``` <br>
-https://speckyboy.com/2016/05/10/good-bad-css-practices/?utm_source=webmastah.weekly&utm_campaign=0cc1f431b9-webmastah_weekly_020&utm_medium=email&utm_term=0_a7e6f4f9b5-0cc1f431b9-96235565 ```NOWY_LINK``` <br>
+https://speckyboy.com/2016/05/10/good-bad-css-practices/ ```NOWY_LINK``` <br>
