@@ -33,6 +33,7 @@ http://uptodate.frontendrescue.org/pl/ <br>
 http://rekrutacyjny.blogspot.com/ <br>
 http://www.maciejaniserowicz.com/ <br>
 https://frontendfront.com/ <br>
+http://tympanus.net/codrops/collective/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -175,6 +176,6 @@ https://github.com/jlmakes/scrollreveal.js <br>
 http://jackonthe.net/css3animateit/examples/ <br>
 http://defonic.com/ <br>
 http://jgthms.com/web-design-in-4-minutes/ <br>
-https://www.supremo.tv/typeterms/ ```NOWY_LINK``` <br>
-http://dailyweb.pl/tutorial-kompleksowy-przewodnik-po-6-rodzajach-anchor-text-linkow-jak-i-kiedy-stosowac/ ```NOWY_LINK``` <br>
-https://speckyboy.com/2016/05/10/good-bad-css-practices/ ```NOWY_LINK``` <br>
+https://www.supremo.tv/typeterms/ <br>
+http://dailyweb.pl/tutorial-kompleksowy-przewodnik-po-6-rodzajach-anchor-text-linkow-jak-i-kiedy-stosowac/ <br>
+https://speckyboy.com/2016/05/10/good-bad-css-practices/ <br>
