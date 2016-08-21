@@ -179,3 +179,4 @@ http://jgthms.com/web-design-in-4-minutes/ <br>
 https://www.supremo.tv/typeterms/ <br>
 http://dailyweb.pl/tutorial-kompleksowy-przewodnik-po-6-rodzajach-anchor-text-linkow-jak-i-kiedy-stosowac/ <br>
 https://speckyboy.com/2016/05/10/good-bad-css-practices/ <br>
+https://github.com/dargaCode/PortfolioExamples ```NOWY_LINK``` <br>
