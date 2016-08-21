@@ -180,3 +180,4 @@ https://www.supremo.tv/typeterms/ <br>
 http://dailyweb.pl/tutorial-kompleksowy-przewodnik-po-6-rodzajach-anchor-text-linkow-jak-i-kiedy-stosowac/ <br>
 https://speckyboy.com/2016/05/10/good-bad-css-practices/ <br>
 https://github.com/dargaCode/PortfolioExamples ```NOWY_LINK``` <br>
+https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.b840ppvb4 ```NOWY_LINK``` <br>
