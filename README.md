@@ -33,8 +33,10 @@ http://uptodate.frontendrescue.org/pl/ <br>
 http://rekrutacyjny.blogspot.com/ <br>
 http://www.maciejaniserowicz.com/ <br>
 https://frontendfront.com/ <br>
-http://tympanus.net/codrops/collective/ ```NOWY_LINK``` <br>
-http://dailyweb.pl/ ```NOWY_LINK``` <br>
+http://tympanus.net/codrops/collective/ <br>
+http://dailyweb.pl/ <br>
+http://kobietydokodu.pl/ ```NOWY_LINK``` <br>
+http://devcorner.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -109,9 +111,9 @@ http://www.sitebuilderreport.com/stock-up <br>
 http://klosinski.net/banki-z-darmowymi-zdjeciami/ <br>
 http://alana.io/?utm_content=bufferbf585&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer <br>
 http://www.wedistill.io/ <br>
-http://blog.wiwi.pl/darmowe-zdjecia-na-strone-top-10-bankow-zdjec/ ```NOWY_LINK``` <br>
+http://blog.wiwi.pl/darmowe-zdjecia-na-strone-top-10-bankow-zdjec/ <br>
 
-# Strony z rozwiązaniami, wtyczki, ciekawostki
+# Strony z rozwiązaniami, wtyczki, ciekawe artykuły, ciekawostki
 
 https://mapsengine.google.com/map/splash?app=mp <br>
 http://css-tricks.com/ <br>
@@ -180,6 +182,8 @@ http://jgthms.com/web-design-in-4-minutes/ <br>
 https://www.supremo.tv/typeterms/ <br>
 http://dailyweb.pl/tutorial-kompleksowy-przewodnik-po-6-rodzajach-anchor-text-linkow-jak-i-kiedy-stosowac/ <br>
 https://speckyboy.com/2016/05/10/good-bad-css-practices/ <br>
-https://github.com/dargaCode/PortfolioExamples ```NOWY_LINK``` <br>
-https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.b840ppvb4 ```NOWY_LINK``` <br>
-http://dailyweb.pl/jedna-wazna-zasada-typografii-ktora-poprawi-czytelnosc-twojej-strony/ ```NOWY_LINK``` <br>
+https://github.com/dargaCode/PortfolioExamples <br>
+https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.b840ppvb4 <br>
+http://dailyweb.pl/jedna-wazna-zasada-typografii-ktora-poprawi-czytelnosc-twojej-strony/ <br>
+http://adamschwartz.co/magic-of-css/ ```NOWY_LINK``` <br>
+http://kobietydokodu.pl/niezbednik-juniora-dobre-praktyki-dla-poczatkujacego-programisty/ ```NOWY_LINK``` <br>
