@@ -187,3 +187,4 @@ https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3
 http://dailyweb.pl/jedna-wazna-zasada-typografii-ktora-poprawi-czytelnosc-twojej-strony/ <br>
 http://adamschwartz.co/magic-of-css/ ```NOWY_LINK``` <br>
 http://kobietydokodu.pl/niezbednik-juniora-dobre-praktyki-dla-poczatkujacego-programisty/ ```NOWY_LINK``` <br>
+https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.xv7955uul ```NOWY_LINK``` <br>
