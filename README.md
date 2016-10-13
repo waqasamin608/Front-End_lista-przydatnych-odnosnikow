@@ -35,8 +35,9 @@ http://www.maciejaniserowicz.com/ <br>
 https://frontendfront.com/ <br>
 http://tympanus.net/codrops/collective/ <br>
 http://dailyweb.pl/ <br>
-http://kobietydokodu.pl/ ```NOWY_LINK``` <br>
-http://devcorner.pl/ ```NOWY_LINK``` <br>
+http://kobietydokodu.pl/ <br>
+http://devcorner.pl/ <br>
+http://www.michalgellert.pl/blog/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -185,6 +186,13 @@ https://speckyboy.com/2016/05/10/good-bad-css-practices/ <br>
 https://github.com/dargaCode/PortfolioExamples <br>
 https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.b840ppvb4 <br>
 http://dailyweb.pl/jedna-wazna-zasada-typografii-ktora-poprawi-czytelnosc-twojej-strony/ <br>
-http://adamschwartz.co/magic-of-css/ ```NOWY_LINK``` <br>
-http://kobietydokodu.pl/niezbednik-juniora-dobre-praktyki-dla-poczatkujacego-programisty/ ```NOWY_LINK``` <br>
-https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.xv7955uul ```NOWY_LINK``` <br>
+http://adamschwartz.co/magic-of-css/ <br>
+http://kobietydokodu.pl/niezbednik-juniora-dobre-praktyki-dla-poczatkujacego-programisty/ <br>
+https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.xv7955uul <br>
+https://envato.com/blog/chrome-extensions-web-design/ ```NOWY_LINK``` <br>
+http://ohshitgit.com/ ```NOWY_LINK``` <br>
+https://boguz.github.io/Spinners/ ```NOWY_LINK``` <br>
+https://www.enki.com/ ```NOWY_LINK``` <br>
+https://sarcadass.github.io/granim.js/examples.html ```NOWY_LINK``` <br>
+https://webmastah.pl/zapominajcie-o-pytaniach-klucz-sukcesu-rozmowie-rekrutacyjnej/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 ```NOWY_LINK``` <br>
+http://www.michalgellert.pl/blog/jak-dzisiaj-szukal-bym-pierwszej-pracy-poradnik-od-poziomu-chce-w-programowanie/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 ```NOWY_LINK``` <br>
