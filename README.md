@@ -199,3 +199,5 @@ https://webmastah.pl/zapominajcie-o-pytaniach-klucz-sukcesu-rozmowie-rekrutacyjn
 http://www.michalgellert.pl/blog/jak-dzisiaj-szukal-bym-pierwszej-pracy-poradnik-od-poziomu-chce-w-programowanie/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 ```NOWY_LINK``` <br>
 http://marcinzaremba.pl/2016/10/13/jak-powstawaly-nowe-produkty-pizzaportal-pl/ ```NOWY_LINK``` <br>
 https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.j8l0l93fn ```NOWY_LINK``` <br>
+http://www.heropatterns.com/ ```NOWY_LINK``` <br>
+http://dabblet.com/gist/1dd8d43442e11b7c5822ae19ad10e3e9 ```NOWY_LINK``` <br>
