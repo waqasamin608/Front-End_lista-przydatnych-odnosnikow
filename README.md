@@ -37,8 +37,8 @@ http://tympanus.net/codrops/collective/ <br>
 http://dailyweb.pl/ <br>
 http://kobietydokodu.pl/ <br>
 http://devcorner.pl/ <br>
-http://www.michalgellert.pl/blog/ ```NOWY_LINK``` <br>
-http://davlasq.pl/blog/ ```NOWY_LINK``` <br>
+http://www.michalgellert.pl/blog/ <br>
+http://davlasq.pl/blog/ <br>
 http://www.javadevmatt.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
