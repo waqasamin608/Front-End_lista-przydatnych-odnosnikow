@@ -39,6 +39,7 @@ http://kobietydokodu.pl/ <br>
 http://devcorner.pl/ <br>
 http://www.michalgellert.pl/blog/ ```NOWY_LINK``` <br>
 http://davlasq.pl/blog/ ```NOWY_LINK``` <br>
+http://www.javadevmatt.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -190,14 +191,15 @@ http://dailyweb.pl/jedna-wazna-zasada-typografii-ktora-poprawi-czytelnosc-twojej
 http://adamschwartz.co/magic-of-css/ <br>
 http://kobietydokodu.pl/niezbednik-juniora-dobre-praktyki-dla-poczatkujacego-programisty/ <br>
 https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.xv7955uul <br>
-https://envato.com/blog/chrome-extensions-web-design/ ```NOWY_LINK``` <br>
-http://ohshitgit.com/ ```NOWY_LINK``` <br>
-https://boguz.github.io/Spinners/ ```NOWY_LINK``` <br>
-https://www.enki.com/ ```NOWY_LINK``` <br>
-https://sarcadass.github.io/granim.js/examples.html ```NOWY_LINK``` <br>
-https://webmastah.pl/zapominajcie-o-pytaniach-klucz-sukcesu-rozmowie-rekrutacyjnej/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 ```NOWY_LINK``` <br>
-http://www.michalgellert.pl/blog/jak-dzisiaj-szukal-bym-pierwszej-pracy-poradnik-od-poziomu-chce-w-programowanie/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 ```NOWY_LINK``` <br>
-http://marcinzaremba.pl/2016/10/13/jak-powstawaly-nowe-produkty-pizzaportal-pl/ ```NOWY_LINK``` <br>
-https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.j8l0l93fn ```NOWY_LINK``` <br>
-http://www.heropatterns.com/ ```NOWY_LINK``` <br>
-http://dabblet.com/gist/1dd8d43442e11b7c5822ae19ad10e3e9 ```NOWY_LINK``` <br>
+https://envato.com/blog/chrome-extensions-web-design/ <br>
+http://ohshitgit.com/ <br>
+https://boguz.github.io/Spinners/ <br>
+https://www.enki.com/ <br>
+https://sarcadass.github.io/granim.js/examples.html <br>
+https://webmastah.pl/zapominajcie-o-pytaniach-klucz-sukcesu-rozmowie-rekrutacyjnej/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 <br>
+http://www.michalgellert.pl/blog/jak-dzisiaj-szukal-bym-pierwszej-pracy-poradnik-od-poziomu-chce-w-programowanie/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 <br>
+http://marcinzaremba.pl/2016/10/13/jak-powstawaly-nowe-produkty-pizzaportal-pl/ <br>
+https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.j8l0l93fn <br>
+http://www.heropatterns.com/ <br>
+http://dabblet.com/gist/1dd8d43442e11b7c5822ae19ad10e3e9 <br>
+http://www.javadevmatt.pl/pierwsze-zadania-programisty/ ```NOWY_LINK``` <br>
