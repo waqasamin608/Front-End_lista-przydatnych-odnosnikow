@@ -202,4 +202,6 @@ http://marcinzaremba.pl/2016/10/13/jak-powstawaly-nowe-produkty-pizzaportal-pl/ 
 https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.j8l0l93fn <br>
 http://www.heropatterns.com/ <br>
 http://dabblet.com/gist/1dd8d43442e11b7c5822ae19ad10e3e9 <br>
-http://www.javadevmatt.pl/pierwsze-zadania-programisty/ ```NOWY_LINK``` <br>
+http://www.javadevmatt.pl/pierwsze-zadania-programisty/ 
+http://allthingssmitty.com/2016/10/03/responsive-table-layout/ ```NOWY_LINK``` <br>
+http://allthingssmitty.com/2016/10/10/splitting-a-border-around-another-element/ ```NOWY_LINK``` <br>
