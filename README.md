@@ -115,6 +115,7 @@ http://klosinski.net/banki-z-darmowymi-zdjeciami/ <br>
 http://alana.io/?utm_content=bufferbf585&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer <br>
 http://www.wedistill.io/ <br>
 http://blog.wiwi.pl/darmowe-zdjecia-na-strone-top-10-bankow-zdjec/ <br>
+https://stocksnap.io/ ```NOWY_LINK``` <br>
 
 # Strony z rozwiązaniami, wtyczki, ciekawe artykuły, ciekawostki
 
