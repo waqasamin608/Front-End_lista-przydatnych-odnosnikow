@@ -207,3 +207,4 @@ http://dabblet.com/gist/1dd8d43442e11b7c5822ae19ad10e3e9 <br>
 http://www.javadevmatt.pl/pierwsze-zadania-programisty/ 
 http://allthingssmitty.com/2016/10/03/responsive-table-layout/ <br>
 http://allthingssmitty.com/2016/10/10/splitting-a-border-around-another-element/ <br>
+https://projects.lukehaas.me/regexhub/ ```NOWY_LINK``` <br>
