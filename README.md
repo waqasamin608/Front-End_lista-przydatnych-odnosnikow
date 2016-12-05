@@ -39,7 +39,7 @@ http://kobietydokodu.pl/ <br>
 http://devcorner.pl/ <br>
 http://www.michalgellert.pl/blog/ <br>
 http://davlasq.pl/blog/ <br>
-http://www.javadevmatt.pl/ ```NOWY_LINK``` <br>
+http://www.javadevmatt.pl/ <br>
 
 Tematyka mobilna:
 
@@ -62,6 +62,7 @@ https://developer.mozilla.org/en-US/docs/Web <br>
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#selector-type <br>
 http://marksheet.io/ <br>
 https://www.rtfmanual.io/ <br>
+http://cssreference.io/ ```NOWY_LINK``` <br>
 
 # E-learning
 
@@ -115,7 +116,7 @@ http://klosinski.net/banki-z-darmowymi-zdjeciami/ <br>
 http://alana.io/?utm_content=bufferbf585&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer <br>
 http://www.wedistill.io/ <br>
 http://blog.wiwi.pl/darmowe-zdjecia-na-strone-top-10-bankow-zdjec/ <br>
-https://stocksnap.io/ ```NOWY_LINK``` <br>
+https://stocksnap.io/ <br>
 
 # Strony z rozwiązaniami, wtyczki, ciekawe artykuły, ciekawostki
 
@@ -204,5 +205,5 @@ https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7
 http://www.heropatterns.com/ <br>
 http://dabblet.com/gist/1dd8d43442e11b7c5822ae19ad10e3e9 <br>
 http://www.javadevmatt.pl/pierwsze-zadania-programisty/ 
-http://allthingssmitty.com/2016/10/03/responsive-table-layout/ ```NOWY_LINK``` <br>
-http://allthingssmitty.com/2016/10/10/splitting-a-border-around-another-element/ ```NOWY_LINK``` <br>
+http://allthingssmitty.com/2016/10/03/responsive-table-layout/ <br>
+http://allthingssmitty.com/2016/10/10/splitting-a-border-around-another-element/ <br>
