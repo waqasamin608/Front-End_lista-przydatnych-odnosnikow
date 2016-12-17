@@ -40,6 +40,7 @@ http://devcorner.pl/ <br>
 http://www.michalgellert.pl/blog/ <br>
 http://davlasq.pl/blog/ <br>
 http://www.javadevmatt.pl/ <br>
+https://bulldogjob.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -62,6 +63,7 @@ https://developer.mozilla.org/en-US/docs/Web <br>
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#selector-type <br>
 http://marksheet.io/ <br>
 https://www.rtfmanual.io/ <br>
+http://adamschwartz.co/magic-of-css/ <br>
 http://cssreference.io/ ```NOWY_LINK``` <br>
 
 # E-learning
@@ -120,59 +122,63 @@ https://stocksnap.io/ <br>
 
 # Strony z rozwiązaniami, wtyczki, ciekawe artykuły, ciekawostki
 
-https://mapsengine.google.com/map/splash?app=mp <br>
-http://css-tricks.com/ <br>
-https://github.com/Explorer09/Ex-pit/tree/master/IE8_XP_Installer_Upgrade <br>
+Serwisy z biblioteką ciekawostek, rozwiązań:
+
+http://littlesnippets.net/ <br>
+http://www.webdesignrepo.com/ <br>
+http://css-tricks.com/<br>
 http://www.unheap.com/ <br>
-http://blog.akademiawww.pl/2014/03/jednostki-w-css-kiedy-ktore-z-nich-powinnismy-uzywac/ <br>
-http://css-tricks.com/centering-css-complete-guide/ <br>
 http://html5please.com/ <br>
 http://css3please.com/ <br>
 http://www.css3files.com/ <br>
 http://tympanus.net/codrops/ <br>
 http://www.bypeople.com/ <br>
 http://webdesignrepo.com/ <br>
+http://www.pickatutorial.com/ <br>
+http://nthmaster.com/ <br>
+http://www.alvit.de/handbook/
+https://codyhouse.co/ <br>
+https://coveloping.com/tools <br>
+http://makerbook.net/ <br>
+http://callmenick.com/ <br>
+http://wwwhere.io/ <br>
+
+Pojedyńcze artykuły, rozwiązania:
+
+http://howtocenterincss.com/ <br>
+https://mapsengine.google.com/map/splash?app=mp <br>
+https://github.com/Explorer09/Ex-pit/tree/master/IE8_XP_Installer_Upgrade <br>
+http://blog.akademiawww.pl/2014/03/jednostki-w-css-kiedy-ktore-z-nich-powinnismy-uzywac/ <br>
+http://css-tricks.com/centering-css-complete-guide/ <br>
 http://webdesign.tutsplus.com/tutorials/quick-tip-solving-the-equal-height-column-conundrum--cms-20403 <br>
 http://jportal.pl/optymalizacja-zapytan-http-dzieki-redukcji-ilosci-obrazkow-na-stronie.html <br>
 http://jonibologna.com/flexbox-cheatsheet/ <br>
-http://www.pickatutorial.com/ <br>
-http://nthmaster.com/ <br>
 http://blog.arkency.com/2014/10/frontend-performance-tips-for-web-developers/ <br>
-http://thepatternlibrary.com/ <br>
 http://www.outsharked.com/imagemapster/default.aspx?what.html <br>
-http://sandbox.juan-i.com/longshadows/ <br>
 http://www.google.com/design/spec/material-design/introduction.html <br>
-http://www.webdesignrepo.com/ <br>
+http://thepatternlibrary.com/ <br>
 https://github.com/dypsilon/frontend-dev-bookmarks <br>
 http://www.goodui.org/ <br>
 http://www.flatuicolorpicker.com/all <br>
-http://www.alvit.de/handbook/ <br>
 http://www.gradient-animator.com/ <br>
 https://www.udemy.com/build-your-first-website-in-1-week/#/lecture/1107022 <br>
 http://blog.guya.net/2013/10/24/the-pains-and-remedies-of-android-html5/ <br>
 http://codepen.io/ccrch/pen/raoXoo <br>
-https://coveloping.com/tools <br>
-http://codyhouse.co/ <br>
-http://makerbook.net/ <br>
 http://learnlayout.com/ <br>
 http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/ <br>
 http://webwavecms.com/Nie_uzywaj_Comic_Sans%2C_czyli_10_krokow_do_lepszego_wygladu_tekstu_na_stronie <br>
 https://css-tricks.com/svg-line-animation-works/ <br>
 http://subtlepatterns.com/ <br>
-http://callmenick.com/ <br>
-http://howtocenterincss.com/ <br>
 https://mixitup.kunkalabs.com/ <br>
 https://github.com/ripienaar/free-for-dev?utm_content=buffer5b892&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer <br>
 http://webglfundamentals.org/?utm_content=buffer72987&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer <br>
 https://github.com/lukasz-madon/awesome-remote-job?utm_content=bufferb91f5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer <br>
-http://svgporn.com/?utm_content=buffer5307f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer <br>
+http://svgporn.com/ <br>
 http://www.samuelrossille.com/css-shape/ <br>
 http://projects.lukehaas.me/css-loaders/ <br>
-http://littlesnippets.net/ <br>
 http://uipatterns.io/ <br>
 https://medium.com/@ravinot/the-ultimate-front-end-development-list-for-2015-5409727c28b4#.9o2ztpqtu <br>
 http://usemodify.com/ <br>
-http://wwwhere.io/ <br>
 https://www.smashingmagazine.com/2016/04/web-developer-guide-color/ <br>
 http://bitsofco.de/styling-broken-images/ <br>
 http://instantlogosearch.com/ <br>
@@ -190,13 +196,11 @@ https://speckyboy.com/2016/05/10/good-bad-css-practices/ <br>
 https://github.com/dargaCode/PortfolioExamples <br>
 https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.b840ppvb4 <br>
 http://dailyweb.pl/jedna-wazna-zasada-typografii-ktora-poprawi-czytelnosc-twojej-strony/ <br>
-http://adamschwartz.co/magic-of-css/ <br>
 http://kobietydokodu.pl/niezbednik-juniora-dobre-praktyki-dla-poczatkujacego-programisty/ <br>
 https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.xv7955uul <br>
 https://envato.com/blog/chrome-extensions-web-design/ <br>
 http://ohshitgit.com/ <br>
 https://boguz.github.io/Spinners/ <br>
-https://www.enki.com/ <br>
 https://sarcadass.github.io/granim.js/examples.html <br>
 https://webmastah.pl/zapominajcie-o-pytaniach-klucz-sukcesu-rozmowie-rekrutacyjnej/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 <br>
 http://www.michalgellert.pl/blog/jak-dzisiaj-szukal-bym-pierwszej-pracy-poradnik-od-poziomu-chce-w-programowanie/?utm_source=webmastah.weekly&utm_campaign=b8fef4d091-webmastah_weekly_025&utm_medium=email&utm_term=0_a7e6f4f9b5-b8fef4d091-96235565 <br>
@@ -208,3 +212,4 @@ http://www.javadevmatt.pl/pierwsze-zadania-programisty/
 http://allthingssmitty.com/2016/10/03/responsive-table-layout/ <br>
 http://allthingssmitty.com/2016/10/10/splitting-a-border-around-another-element/ <br>
 https://projects.lukehaas.me/regexhub/ ```NOWY_LINK``` <br>
+https://codyhouse.co/gem/radial-svg-slider/ ```NOWY_LINK``` <br>
