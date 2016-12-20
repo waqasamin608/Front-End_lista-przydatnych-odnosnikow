@@ -41,6 +41,7 @@ http://www.michalgellert.pl/blog/ <br>
 http://davlasq.pl/blog/ <br>
 http://www.javadevmatt.pl/ <br>
 https://bulldogjob.pl/ ```NOWY_LINK``` <br>
+https://www.facebook.com/m.zalewski/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -136,7 +137,7 @@ http://www.bypeople.com/ <br>
 http://webdesignrepo.com/ <br>
 http://www.pickatutorial.com/ <br>
 http://nthmaster.com/ <br>
-http://www.alvit.de/handbook/
+http://www.alvit.de/handbook/ <br>
 https://codyhouse.co/ <br>
 https://coveloping.com/tools <br>
 http://makerbook.net/ <br>
