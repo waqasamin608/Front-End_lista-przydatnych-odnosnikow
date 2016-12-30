@@ -212,7 +212,8 @@ http://dabblet.com/gist/1dd8d43442e11b7c5822ae19ad10e3e9 <br>
 http://www.javadevmatt.pl/pierwsze-zadania-programisty/ 
 http://allthingssmitty.com/2016/10/03/responsive-table-layout/ <br>
 http://allthingssmitty.com/2016/10/10/splitting-a-border-around-another-element/ <br>
-https://projects.lukehaas.me/regexhub/ ```NOWY_LINK``` <br>
-https://codyhouse.co/gem/radial-svg-slider/ ```NOWY_LINK``` <br>
+https://projects.lukehaas.me/regexhub/ <br>
+https://codyhouse.co/gem/radial-svg-slider/ <br>
 http://vidlery.com/ ```NOWY_LINK``` <br>
 http://freefrontend.com/css-menu/ ```NOWY_LINK``` <br>
+http://i.emezeta.com/weblog/css3-cheatsheet/css3-cheatsheet-2017-emezeta.pdf ```NOWY_LINK``` <br>
