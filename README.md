@@ -214,3 +214,4 @@ http://allthingssmitty.com/2016/10/03/responsive-table-layout/ <br>
 http://allthingssmitty.com/2016/10/10/splitting-a-border-around-another-element/ <br>
 https://projects.lukehaas.me/regexhub/ ```NOWY_LINK``` <br>
 https://codyhouse.co/gem/radial-svg-slider/ ```NOWY_LINK``` <br>
+http://vidlery.com/ ```NOWY_LINK``` <br>
