@@ -113,6 +113,7 @@ https://symu.co/ <br>
 
 # Stock ze zdjęciami i filmami
 
+http://klosinski.net/banki-z-darmowymi-zdjeciami/ <br>
 http://www.pexels.com/ <br>
 http://www.sitebuilderreport.com/stock-up <br>
 http://klosinski.net/banki-z-darmowymi-zdjeciami/ <br>
