@@ -40,8 +40,8 @@ http://devcorner.pl/ <br>
 http://www.michalgellert.pl/blog/ <br>
 http://davlasq.pl/blog/ <br>
 http://www.javadevmatt.pl/ <br>
-https://bulldogjob.pl/ ```NOWY_LINK``` <br>
-https://www.facebook.com/m.zalewski/ ```NOWY_LINK``` <br>
+https://bulldogjob.pl/ <br>
+https://www.facebook.com/m.zalewski/ <br>
 
 Tematyka mobilna:
 
@@ -65,7 +65,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#selector-type <br>
 http://marksheet.io/ <br>
 https://www.rtfmanual.io/ <br>
 http://adamschwartz.co/magic-of-css/ <br>
-http://cssreference.io/ ```NOWY_LINK``` <br>
+http://cssreference.io/ <br>
 
 # E-learning
 
@@ -215,6 +215,7 @@ http://allthingssmitty.com/2016/10/03/responsive-table-layout/ <br>
 http://allthingssmitty.com/2016/10/10/splitting-a-border-around-another-element/ <br>
 https://projects.lukehaas.me/regexhub/ <br>
 https://codyhouse.co/gem/radial-svg-slider/ <br>
-http://vidlery.com/ ```NOWY_LINK``` <br>
-http://freefrontend.com/css-menu/ ```NOWY_LINK``` <br>
-http://i.emezeta.com/weblog/css3-cheatsheet/css3-cheatsheet-2017-emezeta.pdf ```NOWY_LINK``` <br>
+http://vidlery.com/ <br>
+http://freefrontend.com/css-menu/ <br>
+http://i.emezeta.com/weblog/css3-cheatsheet/css3-cheatsheet-2017-emezeta.pdf <br>
+https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details ```NOWY_LINK``` <br>
