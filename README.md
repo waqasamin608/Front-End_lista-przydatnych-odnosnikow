@@ -219,3 +219,6 @@ http://vidlery.com/ <br>
 http://freefrontend.com/css-menu/ <br>
 http://i.emezeta.com/weblog/css3-cheatsheet/css3-cheatsheet-2017-emezeta.pdf <br>
 https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details ```NOWY_LINK``` <br>
+https://github.com/aviaryan/awesome-no-login-web-apps#music-radio-and-podcasts ```NOWY_LINK``` <br>
+https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.o1ah2nldi ```NOWY_LINK``` <br>
+http://okazari.github.io/Rythm.js/ ```NOWY_LINK``` <br>
