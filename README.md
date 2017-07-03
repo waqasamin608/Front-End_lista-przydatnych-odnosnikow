@@ -42,6 +42,8 @@ http://davlasq.pl/blog/ <br>
 http://www.javadevmatt.pl/ <br>
 https://bulldogjob.pl/ <br>
 https://www.facebook.com/m.zalewski/ <br>
+https://www.nettecode.com/ ```NOWY_LINK``` <br>
+https://www.polskifrontend.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -218,7 +220,14 @@ https://codyhouse.co/gem/radial-svg-slider/ <br>
 http://vidlery.com/ <br>
 http://freefrontend.com/css-menu/ <br>
 http://i.emezeta.com/weblog/css3-cheatsheet/css3-cheatsheet-2017-emezeta.pdf <br>
-https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details ```NOWY_LINK``` <br>
-https://github.com/aviaryan/awesome-no-login-web-apps#music-radio-and-podcasts ```NOWY_LINK``` <br>
-https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.o1ah2nldi ```NOWY_LINK``` <br>
-http://okazari.github.io/Rythm.js/ ```NOWY_LINK``` <br>
+https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details <br>
+https://github.com/aviaryan/awesome-no-login-web-apps#music-radio-and-podcasts <br>
+https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.o1ah2nldi <br>
+http://okazari.github.io/Rythm.js/ <br>
+https://github.com/graingert/wow ```NOWY_LINK``` <br>
+https://www.nettecode.com/junior-frontend-developer-analiza-ofert-pracy/ ```NOWY_LINK``` <br>
+https://developers.google.com/web/tools/starter-kit/ ```NOWY_LINK``` <br>
+https://github.com/MaximAbramchuck/awesome-interview-questions ```NOWY_LINK``` <br>
+https://feather.netlify.com/ ```NOWY_LINK``` <br>
+http://freefrontend.com/css-cards/ ```NOWY_LINK``` <br>
+http://tobiasahlin.com/spinkit/ ```NOWY_LINK``` <br>
