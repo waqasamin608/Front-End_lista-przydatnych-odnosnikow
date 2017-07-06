@@ -125,6 +125,7 @@ http://www.wedistill.io/ <br>
 http://blog.wiwi.pl/darmowe-zdjecia-na-strone-top-10-bankow-zdjec/ <br>
 https://stocksnap.io/ <br>
 http://makerbook.net/ ```NOWY_LINK``` <br>
+http://allthefreestock.com/ ```NOWY_LINK``` <br>
 
 # Strony z rozwiązaniami, wtyczki, ciekawe artykuły, ciekawostki
 
