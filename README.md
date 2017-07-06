@@ -44,6 +44,7 @@ https://bulldogjob.pl/ <br>
 https://www.facebook.com/m.zalewski/ <br>
 https://www.nettecode.com/ ```NOWY_LINK``` <br>
 https://www.polskifrontend.pl/ ```NOWY_LINK``` <br>
+http://tworcastron.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -231,3 +232,4 @@ https://github.com/MaximAbramchuck/awesome-interview-questions ```NOWY_LINK``` <
 https://feather.netlify.com/ ```NOWY_LINK``` <br>
 http://freefrontend.com/css-cards/ ```NOWY_LINK``` <br>
 http://tobiasahlin.com/spinkit/ ```NOWY_LINK``` <br>
+http://tworcastron.pl/blog/czy-do-programowania-trzeba-miec-talent/ ```NOWY_LINK``` <br>
