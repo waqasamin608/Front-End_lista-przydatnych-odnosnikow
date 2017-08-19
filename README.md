@@ -42,9 +42,11 @@ http://davlasq.pl/blog/ <br>
 http://www.javadevmatt.pl/ <br>
 https://bulldogjob.pl/ <br>
 https://www.facebook.com/m.zalewski/ <br>
-https://www.nettecode.com/ ```NOWY_LINK``` <br>
-https://www.polskifrontend.pl/ ```NOWY_LINK``` <br>
-http://tworcastron.pl/ ```NOWY_LINK``` <br>
+https://www.nettecode.com/ <br>
+https://www.polskifrontend.pl/ <br>
+http://tworcastron.pl/ <br>
+https://stormit.pl/ ```NOWY_LINK``` <br>
+http://blog.justjoin.it/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -227,11 +229,14 @@ https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details <br
 https://github.com/aviaryan/awesome-no-login-web-apps#music-radio-and-podcasts <br>
 https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.o1ah2nldi <br>
 http://okazari.github.io/Rythm.js/ <br>
-https://github.com/graingert/wow ```NOWY_LINK``` <br>
-https://www.nettecode.com/junior-frontend-developer-analiza-ofert-pracy/ ```NOWY_LINK``` <br>
-https://developers.google.com/web/tools/starter-kit/ ```NOWY_LINK``` <br>
-https://github.com/MaximAbramchuck/awesome-interview-questions ```NOWY_LINK``` <br>
-https://feather.netlify.com/ ```NOWY_LINK``` <br>
-http://freefrontend.com/css-cards/ ```NOWY_LINK``` <br>
-http://tobiasahlin.com/spinkit/ ```NOWY_LINK``` <br>
-http://tworcastron.pl/blog/czy-do-programowania-trzeba-miec-talent/ ```NOWY_LINK``` <br>
+https://github.com/graingert/wow <br>
+https://www.nettecode.com/junior-frontend-developer-analiza-ofert-pracy/  <br>
+https://developers.google.com/web/tools/starter-kit/ <br>
+https://github.com/MaximAbramchuck/awesome-interview-questions <br>
+https://feather.netlify.com/ <br>
+http://freefrontend.com/css-cards/ <br>
+http://tobiasahlin.com/spinkit/ <br>
+http://tworcastron.pl/blog/czy-do-programowania-trzeba-miec-talent/ <br>
+https://github.com/veltman/flubber ```NOWY_LINK``` <br>
+https://tympanus.net/codrops/2014/09/23/animated-background-headers/ ```NOWY_LINK``` <br>
+https://stormit.pl/od-czego-zaczac-nauke-programowania/ ```NOWY_LINK``` <br>
