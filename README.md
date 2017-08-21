@@ -47,6 +47,7 @@ https://www.polskifrontend.pl/ <br>
 http://tworcastron.pl/ <br>
 https://stormit.pl/ ```NOWY_LINK``` <br>
 http://blog.justjoin.it/ ```NOWY_LINK``` <br>
+https://mansfeld.pl/tag/dla-klientow/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -240,3 +241,4 @@ http://tworcastron.pl/blog/czy-do-programowania-trzeba-miec-talent/ <br>
 https://github.com/veltman/flubber ```NOWY_LINK``` <br>
 https://tympanus.net/codrops/2014/09/23/animated-background-headers/ ```NOWY_LINK``` <br>
 https://stormit.pl/od-czego-zaczac-nauke-programowania/ ```NOWY_LINK``` <br>
+https://mansfeld.pl/webdesign/jakosc-strony-internetowej/ ```NOWY_LINK``` <br>
