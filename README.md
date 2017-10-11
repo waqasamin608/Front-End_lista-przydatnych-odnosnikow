@@ -45,9 +45,9 @@ https://www.facebook.com/m.zalewski/ <br>
 https://www.nettecode.com/ <br>
 https://www.polskifrontend.pl/ <br>
 http://tworcastron.pl/ <br>
-https://stormit.pl/ ```NOWY_LINK``` <br>
-http://blog.justjoin.it/ ```NOWY_LINK``` <br>
-https://mansfeld.pl/tag/dla-klientow/ ```NOWY_LINK``` <br>
+https://stormit.pl/ <br>
+http://blog.justjoin.it/ <br>
+https://mansfeld.pl/tag/dla-klientow/ <br>
 
 Tematyka mobilna:
 
@@ -127,8 +127,8 @@ http://alana.io/?utm_content=bufferbf585&utm_medium=social&utm_source=facebook.c
 http://www.wedistill.io/ <br>
 http://blog.wiwi.pl/darmowe-zdjecia-na-strone-top-10-bankow-zdjec/ <br>
 https://stocksnap.io/ <br>
-http://makerbook.net/ ```NOWY_LINK``` <br>
-http://allthefreestock.com/ ```NOWY_LINK``` <br>
+http://makerbook.net/ <br>
+http://allthefreestock.com/ <br>
 
 # Strony z rozwiązaniami, wtyczki, ciekawe artykuły, ciekawostki
 
@@ -238,7 +238,10 @@ https://feather.netlify.com/ <br>
 http://freefrontend.com/css-cards/ <br>
 http://tobiasahlin.com/spinkit/ <br>
 http://tworcastron.pl/blog/czy-do-programowania-trzeba-miec-talent/ <br>
-https://github.com/veltman/flubber ```NOWY_LINK``` <br>
-https://tympanus.net/codrops/2014/09/23/animated-background-headers/ ```NOWY_LINK``` <br>
-https://stormit.pl/od-czego-zaczac-nauke-programowania/ ```NOWY_LINK``` <br>
-https://mansfeld.pl/webdesign/jakosc-strony-internetowej/ ```NOWY_LINK``` <br>
+https://github.com/veltman/flubber <br>
+https://tympanus.net/codrops/2014/09/23/animated-background-headers/ <br>
+https://stormit.pl/od-czego-zaczac-nauke-programowania/ <br>
+https://mansfeld.pl/webdesign/jakosc-strony-internetowej/ <br>
+http://www.designtheway.com/most-used-fonts-alternative-google-fonts/ ```NOWY_LINK``` <br>
+https://www.campaignmonitor.com/css/positioning-display/bottom/ ```NOWY_LINK``` <br>
+
