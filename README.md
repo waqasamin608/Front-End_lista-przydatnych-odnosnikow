@@ -243,5 +243,6 @@ https://tympanus.net/codrops/2014/09/23/animated-background-headers/ <br>
 https://stormit.pl/od-czego-zaczac-nauke-programowania/ <br>
 https://mansfeld.pl/webdesign/jakosc-strony-internetowej/ <br>
 http://www.designtheway.com/most-used-fonts-alternative-google-fonts/ ```NOWY_LINK``` <br>
-https://www.campaignmonitor.com/css/positioning-display/bottom/ ```NOWY_LINK``` <br>
-
+https://github.com/yangshun/tech-interview-handbook ```NOWY_LINK``` <br>
+https://github.com/lukasz-madon/awesome-remote-job ```NOWY_LINK``` <br>
+https://github.com/aviaryan/awesome-no-login-web-apps ```NOWY_LINK``` <br>
