@@ -242,7 +242,9 @@ https://github.com/veltman/flubber <br>
 https://tympanus.net/codrops/2014/09/23/animated-background-headers/ <br>
 https://stormit.pl/od-czego-zaczac-nauke-programowania/ <br>
 https://mansfeld.pl/webdesign/jakosc-strony-internetowej/ <br>
-http://www.designtheway.com/most-used-fonts-alternative-google-fonts/ ```NOWY_LINK``` <br>
-https://github.com/yangshun/tech-interview-handbook ```NOWY_LINK``` <br>
-https://github.com/lukasz-madon/awesome-remote-job ```NOWY_LINK``` <br>
-https://github.com/aviaryan/awesome-no-login-web-apps ```NOWY_LINK``` <br>
+http://www.designtheway.com/most-used-fonts-alternative-google-fonts/ <br>
+https://github.com/yangshun/tech-interview-handbook <br>
+https://github.com/lukasz-madon/awesome-remote-job <br>
+https://github.com/aviaryan/awesome-no-login-web-apps <br>
+https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/ ```NOWY_LINK``` <br>
+https://github.com/thedaviddias/Front-End-Checklist ```NOWY_LINK``` <br>
