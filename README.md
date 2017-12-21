@@ -49,6 +49,7 @@ https://stormit.pl/ <br>
 http://blog.justjoin.it/ <br>
 https://mansfeld.pl/tag/dla-klientow/ <br>
 https://devbay.pl/ ```NOWY_LINK``` <br>
+http://webdevmaster.pl/ ```NOWY_LINK``` <br>
 
 
 Tematyka mobilna:
