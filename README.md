@@ -251,3 +251,4 @@ https://github.com/lukasz-madon/awesome-remote-job <br>
 https://github.com/aviaryan/awesome-no-login-web-apps <br>
 https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/ ```NOWY_LINK``` <br>
 https://github.com/thedaviddias/Front-End-Checklist ```NOWY_LINK``` <br>
+https://www.froala.com/design-blocks ```NOWY_LINK``` <br>
