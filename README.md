@@ -5,7 +5,7 @@
 http://wykop.pl/tag/webdev <br>
 https://www.reddit.com/r/webdev <br>
 https://www.reddit.com/r/frontend <br>
-http://devastator.pl/ <br>
+~~http://devastator.pl/~~ (https://web.archive.org/web/20150523022116/http://devastator.pl/) <br>
 http://blog.piotrnalepa.pl/ <br>
 http://lukasz-socha.pl/swiat-it/ <br>
 http://webroad.pl/ <br>
