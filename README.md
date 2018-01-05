@@ -249,7 +249,8 @@ http://www.designtheway.com/most-used-fonts-alternative-google-fonts/ <br>
 https://github.com/yangshun/tech-interview-handbook <br>
 https://github.com/lukasz-madon/awesome-remote-job <br>
 https://github.com/aviaryan/awesome-no-login-web-apps <br>
-https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/ ```NOWY_LINK``` <br>
-https://github.com/thedaviddias/Front-End-Checklist ```NOWY_LINK``` <br>
-https://www.froala.com/design-blocks ```NOWY_LINK``` <br>
+https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/ <br>
+https://github.com/thedaviddias/Front-End-Checklist <br>
+https://www.froala.com/design-blocks <br>
 https://learngitbranching.js.org/ ```NOWY_LINK``` <br>
+https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md ```NOWY_LINK``` <br>
