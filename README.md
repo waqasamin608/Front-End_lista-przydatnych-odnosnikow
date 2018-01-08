@@ -31,7 +31,7 @@ http://blog.benkel.pl/ <br>
 http://hatalska.com/ <br>
 http://uptodate.frontendrescue.org/pl/ <br>
 http://rekrutacyjny.blogspot.com/ <br>
-http://www.maciejaniserowicz.com/ <br>
+http://devstyle.pl/ (http://www.maciejaniserowicz.com/) <br>
 https://frontendfront.com/ <br>
 http://tympanus.net/codrops/collective/ <br>
 http://dailyweb.pl/ <br>
@@ -50,7 +50,8 @@ http://blog.justjoin.it/ <br>
 https://mansfeld.pl/tag/dla-klientow/ <br>
 https://devbay.pl/ ```NOWY_LINK``` <br>
 http://webdevmaster.pl/ ```NOWY_LINK``` <br>
-
+https://programmer-girl.com/ ```NOWY_LINK``` <br>
+https://blog.copywriterexpert.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -253,4 +254,4 @@ https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/ <br
 https://github.com/thedaviddias/Front-End-Checklist <br>
 https://www.froala.com/design-blocks <br>
 https://learngitbranching.js.org/ ```NOWY_LINK``` <br>
-https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md ```NOWY_LINK``` <br>
+https://github.com/kamranahmedse/developer-roadmap ```NOWY_LINK``` <br>
