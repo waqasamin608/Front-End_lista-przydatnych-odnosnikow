@@ -52,6 +52,7 @@ https://devbay.pl/ ```NOWY_LINK``` <br>
 http://webdevmaster.pl/ ```NOWY_LINK``` <br>
 https://programmer-girl.com/ ```NOWY_LINK``` <br>
 https://blog.copywriterexpert.pl/ ```NOWY_LINK``` <br>
+https://programajster.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
