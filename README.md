@@ -48,11 +48,13 @@ http://tworcastron.pl/ <br>
 https://stormit.pl/ <br>
 http://blog.justjoin.it/ <br>
 https://mansfeld.pl/tag/dla-klientow/ <br>
-https://devbay.pl/ ```NOWY_LINK``` <br>
-http://webdevmaster.pl/ ```NOWY_LINK``` <br>
+https://devbay.pl/ <br>
+http://webdevmaster.pl/ <br>
 https://programmer-girl.com/ ```NOWY_LINK``` <br>
 https://blog.copywriterexpert.pl/ ```NOWY_LINK``` <br>
 https://programajster.pl/ ```NOWY_LINK``` <br>
+http://sowaprogramuje.pl/ ```NOWY_LINK``` <br>
+https://devchinet.wordpress.com/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
