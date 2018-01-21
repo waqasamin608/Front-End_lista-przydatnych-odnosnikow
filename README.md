@@ -61,7 +61,7 @@ Tematyka mobilna:
 http://jestem.mobi/ <br>
 http://www.mobiletrends.pl/ <br>
 
-# Dokumentacje
+# Dokumentacje i książki
 
 http://devdocs.io/ <br>
 http://api.jquery.com/ <br>
@@ -79,6 +79,7 @@ http://marksheet.io/ <br>
 https://www.rtfmanual.io/ <br>
 http://adamschwartz.co/magic-of-css/ <br>
 http://cssreference.io/ <br>
+http://goalkicker.com/ ```NOWY_LINK``` <br>
 
 # E-learning
 
