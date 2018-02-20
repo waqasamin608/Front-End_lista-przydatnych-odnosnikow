@@ -50,11 +50,12 @@ http://blog.justjoin.it/ <br>
 https://mansfeld.pl/tag/dla-klientow/ <br>
 https://devbay.pl/ <br>
 http://webdevmaster.pl/ <br>
-https://programmer-girl.com/ ```NOWY_LINK``` <br>
-https://blog.copywriterexpert.pl/ ```NOWY_LINK``` <br>
-https://programajster.pl/ ```NOWY_LINK``` <br>
-http://sowaprogramuje.pl/ ```NOWY_LINK``` <br>
-https://devchinet.wordpress.com/ ```NOWY_LINK``` <br>
+https://programmer-girl.com/ <br>
+https://blog.copywriterexpert.pl/ <br>
+https://programajster.pl/ <br>
+http://sowaprogramuje.pl/ <br>
+https://devchinet.wordpress.com/ <br>
+https://kernelgonnapanic.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -79,7 +80,7 @@ http://marksheet.io/ <br>
 https://www.rtfmanual.io/ <br>
 http://adamschwartz.co/magic-of-css/ <br>
 http://cssreference.io/ <br>
-http://goalkicker.com/ ```NOWY_LINK``` <br>
+http://goalkicker.com/ <br>
 
 # E-learning
 
@@ -257,5 +258,5 @@ https://github.com/aviaryan/awesome-no-login-web-apps <br>
 https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/ <br>
 https://github.com/thedaviddias/Front-End-Checklist <br>
 https://www.froala.com/design-blocks <br>
-https://learngitbranching.js.org/ ```NOWY_LINK``` <br>
-https://github.com/kamranahmedse/developer-roadmap ```NOWY_LINK``` <br>
+https://learngitbranching.js.org/ <br>
+https://github.com/kamranahmedse/developer-roadmap <br>
