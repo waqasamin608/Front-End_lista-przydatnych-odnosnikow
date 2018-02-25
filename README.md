@@ -57,6 +57,7 @@ http://sowaprogramuje.pl/ <br>
 https://devchinet.wordpress.com/ <br>
 https://kernelgonnapanic.pl/ ```NOWY_LINK``` <br>
 https://blog.gutek.pl/ ```NOWY_LINK``` <br>
+https://fsgeek.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
