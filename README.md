@@ -264,3 +264,4 @@ https://github.com/thedaviddias/Front-End-Checklist <br>
 https://www.froala.com/design-blocks <br>
 https://learngitbranching.js.org/ <br>
 https://github.com/kamranahmedse/developer-roadmap <br>
+https://pageclip.co/blog/2018-02-20-you-should-use-html5-form-validation.html ```NOWY_LINK``` <br>
