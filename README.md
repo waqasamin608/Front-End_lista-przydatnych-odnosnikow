@@ -2,68 +2,69 @@
 
 # Blogi, portale informacyjne
 
-http://wykop.pl/tag/webdev <br>
-https://www.reddit.com/r/webdev <br>
-https://www.reddit.com/r/frontend <br>
-~~http://devastator.pl/~~ (https://web.archive.org/web/20150523022116/http://devastator.pl/) <br>
-http://blog.piotrnalepa.pl/ <br>
-http://lukasz-socha.pl/swiat-it/ <br>
-http://webroad.pl/ <br>
-http://ferrante.pl/ <br>
-http://mino.pl/blog/ <br>
-https://www.facebook.com/sruupl?fref=nf <br>
-http://forum.sruu.pl/ <br>
-http://webmastah.pl/ <br>
-http://www.1stwebdesigner.com/resource/become-web-designer/ <br>
-http://siedem.it/ <br>
-http://www.web.gov.pl/ <br>
-http://blog.end3r.com/ <br>
-http://javascript-html5-tutorial.pl/ <br>
-http://burczu-programator.pl/ <br>
-http://devtoolstips.com/ <br>
-http://www.merixstudio.com/blog/ <br>
-http://seo.zgred.pl/ <br>
-http://darekjasinski.pl/kurs-seo-darmowy-kurs-pozycjonowania-dla-poczatkujacych/ <br>
-http://www.redexperts.pl/blog <br>
-http://fasterandbetter.pl/publikacje/#pagetop <br>
-http://blog.nebula.us/ <br>
+http://1stwebdesigner.com/resource/become-web-designer/ <br>
 http://blog.benkel.pl/ <br>
-http://hatalska.com/ <br>
-http://uptodate.frontendrescue.org/pl/ <br>
-http://rekrutacyjny.blogspot.com/ <br>
-http://devstyle.pl/ (http://www.maciejaniserowicz.com/) <br>
-https://frontendfront.com/ <br>
-http://tympanus.net/codrops/collective/ <br>
-http://dailyweb.pl/ <br>
-http://kobietydokodu.pl/ <br>
-http://devcorner.pl/ <br>
-http://www.michalgellert.pl/blog/ <br>
-http://davlasq.pl/blog/ <br>
-http://www.javadevmatt.pl/ <br>
-https://bulldogjob.pl/ <br>
-https://www.facebook.com/m.zalewski/ <br>
-https://www.nettecode.com/ <br>
-https://www.polskifrontend.pl/ <br>
-http://tworcastron.pl/ <br>
-https://stormit.pl/ <br>
+http://blog.end3r.com/ <br>
 http://blog.justjoin.it/ <br>
-https://mansfeld.pl/tag/dla-klientow/ <br>
-https://devbay.pl/ <br>
-http://webdevmaster.pl/ <br>
-https://programmer-girl.com/ <br>
-https://blog.copywriterexpert.pl/ <br>
-https://programajster.pl/ <br>
+http://blog.nebula.us/ <br>
+http://blog.piotrnalepa.pl/ <br>
+http://burczu-programator.pl/ <br>
+http://dailyweb.pl/ <br>
+http://darekjasinski.pl/kurs-seo-darmowy-kurs-pozycjonowania-dla-poczatkujacych/ <br>
+http://davlasq.pl/blog/ <br>
+~~http://devastator.pl/~~ (https://web.archive.org/web/20150523022116/http://devastator.pl/) <br>
+http://devcorner.pl/ <br>
+http://devstyle.pl/ (http://maciejaniserowicz.com/) <br>
+http://devtoolstips.com/ <br>
+http://fasterandbetter.pl/publikacje/#pagetop <br>
+http://ferrante.pl/ <br>
+http://forum.sruu.pl/ <br>
+http://hatalska.com/ <br>
+http://javadevmatt.pl/ <br>
+http://javascript-html5-tutorial.pl/ <br>
+http://kobietydokodu.pl/ <br>
+http://lukasz-socha.pl/swiat-it/ <br>
+http://merixstudio.com/blog/ <br>
+http://michalgellert.pl/blog/ <br>
+http://mino.pl/blog/ <br>
+http://redexperts.pl/blog <br>
+http://rekrutacyjny.blogspot.com/ <br>
+http://seo.zgred.pl/ <br>
+http://siedem.it/ <br>
 http://sowaprogramuje.pl/ <br>
+http://tworcastron.pl/ <br>
+http://tympanus.net/codrops/collective/ <br>
+http://uptodate.frontendrescue.org/pl/ <br>
+http://web.gov.pl/ <br>
+http://webdevmaster.pl/ <br>
+http://webmastah.pl/ <br>
+http://webroad.pl/ <br>
+http://wykop.pl/tag/webdev <br>
+https://blog.copywriterexpert.pl/ <br>
+https://blog.gutek.pl/ <br>
+https://bulldogjob.pl/ <br>
+https://devbay.pl/ <br>
 https://devchinet.wordpress.com/ <br>
-https://kernelgonnapanic.pl/ ```NOWY_LINK``` <br>
-https://blog.gutek.pl/ ```NOWY_LINK``` <br>
-https://fsgeek.pl/ ```NOWY_LINK``` <br>
-https://pawel.wrzesz.cz/blog/ ```NOWY_LINK``` <br>
+https://facebook.com/m.zalewski/ <br>
+https://facebook.com/sruupl <br>
+https://frontendfront.com/ <br>
+https://fsgeek.pl/ <br>
+https://kernelgonnapanic.pl/ <br>
+https://mansfeld.pl/tag/dla-klientow/ <br>
+https://nettecode.com/ <br>
+https://pawel.wrzesz.cz/blog/ <br>
+https://polskifrontend.pl/ <br>
+https://programajster.pl/ <br>
+https://programmer-girl.com/ <br>
+https://reddit.com/r/frontend <br>
+https://reddit.com/r/webdev <br>
+https://stormit.pl/ <br>
+https://typeofweb.com/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
 http://jestem.mobi/ <br>
-http://www.mobiletrends.pl/ <br>
+http://mobiletrends.pl/ <br>
 
 # Dokumentacje i książki
 
@@ -88,9 +89,9 @@ https://gethead.info/ ```NOWY_LINK``` <br>
 
 # E-learning
 
-http://www.codecademy.com/ <br>
+https://codecademy.com/ <br>
+https://teamtreehouse.com/ <br>
 https://www.codeschool.com/ <br>
-http://teamtreehouse.com/ <br>
 
 # Frameworki CSS
 
@@ -265,3 +266,5 @@ https://www.froala.com/design-blocks <br>
 https://learngitbranching.js.org/ <br>
 https://github.com/kamranahmedse/developer-roadmap <br>
 https://pageclip.co/blog/2018-02-20-you-should-use-html5-form-validation.html ```NOWY_LINK``` <br>
+https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 ```NOWY_LINK``` <br>
+https://typeofweb.com/2018/03/12/jak-nie-zrobimy-z-ciebie-programisty-w-dwa-miesiace/ ```NOWY_LINK``` <br>
