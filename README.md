@@ -9,6 +9,7 @@ http://blog.justjoin.it/ <br>
 http://blog.nebula.us/ <br>
 http://blog.piotrnalepa.pl/ <br>
 http://burczu-programator.pl/ <br>
+http://cezarywalenciuk.pl/ ```NOWY_LINK``` <br>
 http://dailyweb.pl/ <br>
 http://darekjasinski.pl/kurs-seo-darmowy-kurs-pozycjonowania-dla-poczatkujacych/ <br>
 http://davlasq.pl/blog/ <br>
