@@ -86,6 +86,7 @@ http://adamschwartz.co/magic-of-css/ <br>
 http://cssreference.io/ <br>
 http://goalkicker.com/ <br>
 https://gethead.info/ ```NOWY_LINK``` <br>
+https://github.com/kieranmv95/Front-End-Wizard ```NOWY_LINK``` <br>
 
 # E-learning
 
@@ -265,6 +266,7 @@ https://github.com/thedaviddias/Front-End-Checklist <br>
 https://www.froala.com/design-blocks <br>
 https://learngitbranching.js.org/ <br>
 https://github.com/kamranahmedse/developer-roadmap <br>
-https://pageclip.co/blog/2018-02-20-you-should-use-html5-form-validation.html ```NOWY_LINK``` <br>
-https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 ```NOWY_LINK``` <br>
-https://typeofweb.com/2018/03/12/jak-nie-zrobimy-z-ciebie-programisty-w-dwa-miesiace/ ```NOWY_LINK``` <br>
+https://pageclip.co/blog/2018-02-20-you-should-use-html5-form-validation.html <br>
+https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 <br>
+https://typeofweb.com/2018/03/12/jak-nie-zrobimy-z-ciebie-programisty-w-dwa-miesiace/ <br>
+https://atomiks.github.io/30-seconds-of-css/ ```NOWY_LINK``` <br>
