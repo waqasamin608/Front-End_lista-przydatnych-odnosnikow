@@ -271,3 +271,4 @@ https://pageclip.co/blog/2018-02-20-you-should-use-html5-form-validation.html <b
 https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 <br>
 https://typeofweb.com/2018/03/12/jak-nie-zrobimy-z-ciebie-programisty-w-dwa-miesiace/ <br>
 https://atomiks.github.io/30-seconds-of-css/ ```NOWY_LINK``` <br>
+https://netwizards.com.pl/zasoby/darmowe-polskie-czcionki-google-fonts-z-polskimi-znakami/ ```NOWY_LINK``` <br>
