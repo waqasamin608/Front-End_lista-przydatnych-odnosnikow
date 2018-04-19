@@ -21,6 +21,7 @@ http://fasterandbetter.pl/publikacje/#pagetop <br>
 http://ferrante.pl/ <br>
 http://forum.sruu.pl/ <br>
 http://hatalska.com/ <br>
+http://icoding.pl/ ```NOWY_LINK``` <br>
 http://itmoderngirl.pl/ ```NOWY_LINK``` <br>
 http://javadevmatt.pl/ <br>
 http://javascript-html5-tutorial.pl/ <br>
