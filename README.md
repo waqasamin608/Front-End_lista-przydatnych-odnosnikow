@@ -8,7 +8,6 @@ http://blog.end3r.com/ <br>
 http://blog.justjoin.it/ <br>
 http://blog.nebula.us/ <br>
 http://blog.piotrnalepa.pl/ <br>
-http://burczu-programator.pl/ <br>
 http://cezarywalenciuk.pl/ ```NOWY_LINK``` <br>
 http://dailyweb.pl/ <br>
 http://darekjasinski.pl/kurs-seo-darmowy-kurs-pozycjonowania-dla-poczatkujacych/ <br>
@@ -19,6 +18,7 @@ http://devstyle.pl/ (http://maciejaniserowicz.com/) <br>
 http://devtoolstips.com/ <br>
 http://fasterandbetter.pl/publikacje/#pagetop <br>
 http://ferrante.pl/ <br>
+http://frontendinsights.com/ ```NOWY_LINK``` <br>
 http://forum.sruu.pl/ <br>
 http://hatalska.com/ <br>
 http://icoding.pl/ ```NOWY_LINK``` <br>
