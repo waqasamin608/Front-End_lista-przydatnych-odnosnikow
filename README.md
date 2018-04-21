@@ -3,7 +3,7 @@
 # Blogi, portale informacyjne
 
 http://1stwebdesigner.com/resource/become-web-designer/ <br>
-http://blog.benkel.pl/ <br>
+~~http://blog.benkel.pl/~~ (https://web.archive.org/web/20161018105342/http://blog.benkel.pl/) <br>
 http://blog.end3r.com/ <br>
 http://blog.justjoin.it/ <br>
 http://blog.nebula.us/ <br>
