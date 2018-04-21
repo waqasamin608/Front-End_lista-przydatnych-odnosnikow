@@ -10,8 +10,7 @@ http://blog.nebula.us/ <br>
 http://blog.piotrnalepa.pl/ <br>
 http://cezarywalenciuk.pl/ ```NOWY_LINK``` <br>
 http://dailyweb.pl/ <br>
-http://darekjasinski.pl/kurs-seo-darmowy-kurs-pozycjonowania-dla-poczatkujacych/ <br>
-http://davlasq.pl/blog/ <br>
+~~http://davlasq.pl/blog/~~ (http://web.archive.org/web/20161024104158/http://davlasq.pl:80/blog/) <br>
 ~~http://devastator.pl/~~ (https://web.archive.org/web/20150523022116/http://devastator.pl/) <br>
 http://devcorner.pl/ <br>
 http://devstyle.pl/ (http://maciejaniserowicz.com/) <br>
