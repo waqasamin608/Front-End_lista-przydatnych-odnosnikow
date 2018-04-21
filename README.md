@@ -15,8 +15,7 @@ http://dailyweb.pl/ <br>
 http://devcorner.pl/ <br>
 http://devstyle.pl/ (http://maciejaniserowicz.com/) <br>
 http://devtoolstips.com/ <br>
-http://fasterandbetter.pl/publikacje/#pagetop <br>
-http://ferrante.pl/ <br>
+~~http://ferrante.pl/~~ (http://web.archive.org/web/20180224034416/http://ferrante.pl/) <br>
 http://frontendinsights.com/ ```NOWY_LINK``` <br>
 http://forum.sruu.pl/ <br>
 http://hatalska.com/ <br>
