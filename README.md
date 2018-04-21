@@ -57,6 +57,7 @@ https://mansfeld.pl/tag/dla-klientow/ <br>
 https://nettecode.com/ <br>
 https://pawel.wrzesz.cz/blog/ <br>
 https://polskifrontend.pl/ <br>
+https://poznajprogramowanie.pl/ ```NOWY_LINK``` <br>
 https://programajster.pl/ <br>
 https://programmer-girl.com/ <br>
 https://reddit.com/r/frontend <br>
