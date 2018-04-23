@@ -29,10 +29,8 @@ http://lukasz-socha.pl/swiat-it/ <br>
 http://merixstudio.com/blog/ <br>
 http://michalgellert.pl/blog/ <br>
 http://mino.pl/blog/ <br>
-http://redexperts.pl/blog <br>
 http://rekrutacyjny.blogspot.com/ <br>
 http://seo.zgred.pl/ <br>
-http://siedem.it/ <br>
 http://sowaprogramuje.pl/ <br>
 http://tworcastron.pl/ <br>
 http://tympanus.net/codrops/collective/ <br>
