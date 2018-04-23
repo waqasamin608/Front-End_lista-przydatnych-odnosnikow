@@ -13,6 +13,7 @@ http://dailyweb.pl/ <br>
 ~~http://davlasq.pl/blog/~~ (http://web.archive.org/web/20161024104158/http://davlasq.pl:80/blog/) <br>
 ~~http://devastator.pl/~~ (https://web.archive.org/web/20150523022116/http://devastator.pl/) <br>
 http://devcorner.pl/ <br>
+http://devenv.pl/ ```NOWY_LINK``` <br>
 http://devstyle.pl/ (http://maciejaniserowicz.com/) <br>
 http://devtoolstips.com/ <br>
 ~~http://ferrante.pl/~~ (http://web.archive.org/web/20180224034416/http://ferrante.pl/) <br>
