@@ -274,3 +274,4 @@ https://typeofweb.com/2018/03/12/jak-nie-zrobimy-z-ciebie-programisty-w-dwa-mies
 https://atomiks.github.io/30-seconds-of-css/ <br>
 https://netwizards.com.pl/zasoby/darmowe-polskie-czcionki-google-fonts-z-polskimi-znakami/ <br>
 https://frontendmasters.com/books/front-end-handbook/2018/ ```NOWY_LINK``` <br>
+http://sowaprogramuje.pl/menu-nie-musi-byc-nudne/ ```NOWY_LINK``` <br>
