@@ -17,7 +17,7 @@ http://devstyle.pl/ (http://maciejaniserowicz.com/) <br>
 http://devtoolstips.com/ <br>
 ~~http://ferrante.pl/~~ (http://web.archive.org/web/20180224034416/http://ferrante.pl/) <br>
 http://frontendinsights.com/ ```NOWY_LINK``` <br>
-frogriot.com/blog/pl/ ```NOWY_LINK``` <br>
+http://frogriot.com/blog/pl/ ```NOWY_LINK``` <br>
 http://forum.sruu.pl/ <br>
 http://hatalska.com/ <br>
 http://icoding.pl/ ```NOWY_LINK``` <br>
