@@ -170,6 +170,7 @@ https://coveloping.com/tools <br>
 http://makerbook.net/ <br>
 http://callmenick.com/ <br>
 http://wwwhere.io/ <br>
+https://github.com/piecioshka/warto-wiedziec ```NOWY_LINK``` <br>
 
 Pojedyńcze artykuły, rozwiązania:
 
