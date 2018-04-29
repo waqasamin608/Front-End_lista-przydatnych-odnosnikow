@@ -8,7 +8,7 @@ http://blog.end3r.com/ <br>
 http://blog.justjoin.it/ <br>
 http://blog.nebula.us/ <br>
 http://blog.piotrnalepa.pl/ <br>
-http://cezarywalenciuk.pl/ ```NOWY_LINK``` <br>
+http://cezarywalenciuk.pl/ <br>
 http://dailyweb.pl/ <br>
 ~~http://davlasq.pl/blog/~~ (http://web.archive.org/web/20161024104158/http://davlasq.pl:80/blog/) <br>
 ~~http://devastator.pl/~~ (https://web.archive.org/web/20150523022116/http://devastator.pl/) <br>
@@ -17,12 +17,12 @@ http://devenv.pl/ ```NOWY_LINK``` <br>
 http://devstyle.pl/ (http://maciejaniserowicz.com/) <br>
 http://devtoolstips.com/ <br>
 ~~http://ferrante.pl/~~ (http://web.archive.org/web/20180224034416/http://ferrante.pl/) <br>
-http://frontendinsights.com/ ```NOWY_LINK``` <br>
+http://frontendinsights.com/ <br>
 http://frogriot.com/blog/pl/ ```NOWY_LINK``` <br>
 http://forum.sruu.pl/ <br>
 http://hatalska.com/ <br>
-http://icoding.pl/ ```NOWY_LINK``` <br>
-http://itmoderngirl.pl/ ```NOWY_LINK``` <br>
+http://icoding.pl/ <br>
+http://itmoderngirl.pl/ <br>
 http://javadevmatt.pl/ <br>
 http://javascript-html5-tutorial.pl/ <br>
 http://kobietydokodu.pl/ <br>
@@ -54,14 +54,15 @@ https://kernelgonnapanic.pl/ <br>
 https://mansfeld.pl/tag/dla-klientow/ <br>
 https://nettecode.com/ <br>
 https://pawel.wrzesz.cz/blog/ <br>
+https://piecioshka.pl/blog/ ```NOWY_LINK``` <br>
 https://polskifrontend.pl/ <br>
-https://poznajprogramowanie.pl/ ```NOWY_LINK``` <br>
+https://poznajprogramowanie.pl/ <br>
 https://programajster.pl/ <br>
 https://programmer-girl.com/ <br>
 https://reddit.com/r/frontend <br>
 https://reddit.com/r/webdev <br>
 https://stormit.pl/ <br>
-https://typeofweb.com/ ```NOWY_LINK``` <br>
+https://typeofweb.com/ <br>
 
 Tematyka mobilna:
 
@@ -87,8 +88,8 @@ https://www.rtfmanual.io/ <br>
 http://adamschwartz.co/magic-of-css/ <br>
 http://cssreference.io/ <br>
 http://goalkicker.com/ <br>
-https://gethead.info/ ```NOWY_LINK``` <br>
-https://github.com/kieranmv95/Front-End-Wizard ```NOWY_LINK``` <br>
+https://gethead.info/ <br>
+https://github.com/kieranmv95/Front-End-Wizard <br>
 
 # E-learning
 
@@ -273,5 +274,6 @@ https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 <br>
 https://typeofweb.com/2018/03/12/jak-nie-zrobimy-z-ciebie-programisty-w-dwa-miesiace/ <br>
 https://atomiks.github.io/30-seconds-of-css/ <br>
 https://netwizards.com.pl/zasoby/darmowe-polskie-czcionki-google-fonts-z-polskimi-znakami/ <br>
-https://frontendmasters.com/books/front-end-handbook/2018/ ```NOWY_LINK``` <br>
-http://sowaprogramuje.pl/menu-nie-musi-byc-nudne/ ```NOWY_LINK``` <br>
+https://frontendmasters.com/books/front-end-handbook/2018/ <br>
+http://sowaprogramuje.pl/menu-nie-musi-byc-nudne/ <br>
+https://piecioshka.pl/blog/2017/05/07/jak-przerobic-strone-na-pwa.html ```NOWY_LINK``` <br>
