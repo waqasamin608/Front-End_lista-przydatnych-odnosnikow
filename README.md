@@ -13,12 +13,12 @@ http://dailyweb.pl/ <br>
 ~~http://davlasq.pl/blog/~~ (http://web.archive.org/web/20161024104158/http://davlasq.pl:80/blog/) <br>
 ~~http://devastator.pl/~~ (https://web.archive.org/web/20150523022116/http://devastator.pl/) <br>
 http://devcorner.pl/ <br>
-http://devenv.pl/ ```NOWY_LINK``` <br>
+http://devenv.pl/ <br>
 http://devstyle.pl/ (http://maciejaniserowicz.com/) <br>
 http://devtoolstips.com/ <br>
 ~~http://ferrante.pl/~~ (http://web.archive.org/web/20180224034416/http://ferrante.pl/) <br>
 http://frontendinsights.com/ <br>
-http://frogriot.com/blog/pl/ ```NOWY_LINK``` <br>
+http://frogriot.com/blog/pl/ <br>
 http://forum.sruu.pl/ <br>
 http://hatalska.com/ <br>
 http://icoding.pl/ <br>
@@ -36,6 +36,7 @@ http://sowaprogramuje.pl/ <br>
 http://tworcastron.pl/ <br>
 http://tympanus.net/codrops/collective/ <br>
 http://uptodate.frontendrescue.org/pl/ <br>
+http://www.wakeupandcode.pl/ ```NOWY_LINK``` <br>
 http://web.gov.pl/ <br>
 http://webdevmaster.pl/ <br>
 http://webmastah.pl/ <br>
@@ -54,7 +55,7 @@ https://kernelgonnapanic.pl/ <br>
 https://mansfeld.pl/tag/dla-klientow/ <br>
 https://nettecode.com/ <br>
 https://pawel.wrzesz.cz/blog/ <br>
-https://piecioshka.pl/blog/ ```NOWY_LINK``` <br>
+https://piecioshka.pl/blog/ <br>
 https://polskifrontend.pl/ <br>
 https://poznajprogramowanie.pl/ <br>
 https://programajster.pl/ <br>
@@ -170,7 +171,7 @@ https://coveloping.com/tools <br>
 http://makerbook.net/ <br>
 http://callmenick.com/ <br>
 http://wwwhere.io/ <br>
-https://github.com/piecioshka/warto-wiedziec ```NOWY_LINK``` <br>
+https://github.com/piecioshka/warto-wiedziec <br>
 
 Pojedyńcze artykuły, rozwiązania:
 
@@ -277,4 +278,5 @@ https://atomiks.github.io/30-seconds-of-css/ <br>
 https://netwizards.com.pl/zasoby/darmowe-polskie-czcionki-google-fonts-z-polskimi-znakami/ <br>
 https://frontendmasters.com/books/front-end-handbook/2018/ <br>
 http://sowaprogramuje.pl/menu-nie-musi-byc-nudne/ <br>
-https://piecioshka.pl/blog/2017/05/07/jak-przerobic-strone-na-pwa.html ```NOWY_LINK``` <br>
+https://piecioshka.pl/blog/2017/05/07/jak-przerobic-strone-na-pwa.html <br>
+http://www.wakeupandcode.pl/wymowki/ ```NOWY_LINK``` <br>
