@@ -45,6 +45,7 @@ http://wykop.pl/tag/webdev <br>
 https://blog.copywriterexpert.pl/ <br>
 https://blog.gutek.pl/ <br>
 https://bulldogjob.pl/ <br>
+https://bystryprogramista.wordpress.com/ ```NOWY_LINK``` <br>
 https://devbay.pl/ <br>
 https://devchinet.wordpress.com/ <br>
 https://facebook.com/m.zalewski/ <br>
@@ -59,6 +60,7 @@ https://piecioshka.pl/blog/ <br>
 https://polskifrontend.pl/ <br>
 https://poznajprogramowanie.pl/ <br>
 https://programajster.pl/ <br>
+https://programistanaswoim.pl/ ```NOWY_LINK``` <br>
 https://programmer-girl.com/ <br>
 https://reddit.com/r/frontend <br>
 https://reddit.com/r/webdev <br>
