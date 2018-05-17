@@ -3,6 +3,7 @@
 # Blogi, portale informacyjne
 
 http://1stwebdesigner.com/resource/become-web-designer/ <br>
+http://bedeprogramistka.pl/blog/ ```NOWY_LINK``` <br>
 ~~http://blog.benkel.pl/~~ (https://web.archive.org/web/20161018105342/http://blog.benkel.pl/) <br>
 http://blog.end3r.com/ <br>
 http://blog.justjoin.it/ <br>
@@ -93,6 +94,7 @@ http://cssreference.io/ <br>
 http://goalkicker.com/ <br>
 https://gethead.info/ <br>
 https://github.com/kieranmv95/Front-End-Wizard <br>
+https://www.hekko.pl/blog/rodo/ ```NOWY_LINK``` <br>
 
 # E-learning
 
@@ -282,3 +284,4 @@ https://frontendmasters.com/books/front-end-handbook/2018/ <br>
 http://sowaprogramuje.pl/menu-nie-musi-byc-nudne/ <br>
 https://piecioshka.pl/blog/2017/05/07/jak-przerobic-strone-na-pwa.html <br>
 http://www.wakeupandcode.pl/wymowki/ ```NOWY_LINK``` <br>
+http://bedeprogramistka.pl/layout-strony-glownej-grid-bootstrap-flexbox/ ```NOWY_LINK``` <br>
