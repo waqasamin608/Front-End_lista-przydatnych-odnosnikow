@@ -3,7 +3,7 @@
 # Blogi, portale informacyjne
 
 http://1stwebdesigner.com/resource/become-web-designer/ <br>
-http://bedeprogramistka.pl/blog/ ```NOWY_LINK``` <br>
+http://bedeprogramistka.pl/blog/ <br>
 ~~http://blog.benkel.pl/~~ (https://web.archive.org/web/20161018105342/http://blog.benkel.pl/) <br>
 http://blog.end3r.com/ <br>
 http://blog.justjoin.it/ <br>
@@ -37,7 +37,7 @@ http://sowaprogramuje.pl/ <br>
 http://tworcastron.pl/ <br>
 http://tympanus.net/codrops/collective/ <br>
 http://uptodate.frontendrescue.org/pl/ <br>
-http://www.wakeupandcode.pl/ ```NOWY_LINK``` <br>
+http://www.wakeupandcode.pl/ <br>
 http://web.gov.pl/ <br>
 http://webdevmaster.pl/ <br>
 http://webmastah.pl/ <br>
@@ -46,7 +46,7 @@ http://wykop.pl/tag/webdev <br>
 https://blog.copywriterexpert.pl/ <br>
 https://blog.gutek.pl/ <br>
 https://bulldogjob.pl/ <br>
-https://bystryprogramista.wordpress.com/ ```NOWY_LINK``` <br>
+https://bystryprogramista.wordpress.com/ <br>
 https://devbay.pl/ <br>
 https://devchinet.wordpress.com/ <br>
 https://facebook.com/m.zalewski/ <br>
@@ -61,7 +61,7 @@ https://piecioshka.pl/blog/ <br>
 https://polskifrontend.pl/ <br>
 https://poznajprogramowanie.pl/ <br>
 https://programajster.pl/ <br>
-https://programistanaswoim.pl/ ```NOWY_LINK``` <br>
+https://programistanaswoim.pl/ <br>
 https://programmer-girl.com/ <br>
 https://reddit.com/r/frontend <br>
 https://reddit.com/r/webdev <br>
@@ -94,7 +94,7 @@ http://cssreference.io/ <br>
 http://goalkicker.com/ <br>
 https://gethead.info/ <br>
 https://github.com/kieranmv95/Front-End-Wizard <br>
-https://www.hekko.pl/blog/rodo/ ```NOWY_LINK``` <br>
+https://www.hekko.pl/blog/rodo/ <br>
 
 # E-learning
 
@@ -118,6 +118,11 @@ http://kursbootstrap.pl/ <br>
 http://paintstrap.com/ <br>
 http://www.bootply.com/ <br>
 http://bootsnipp.com/ <br>
+
+# Nauka przez zabawę
+
+http://www.flexboxdefense.com/ ```NOWY_LINK``` <br>
+https://koziolekweb.pl/gdzie-trenowac-swoje-umiejetnosci/ ```NOWY_LINK``` <br>
 
 # Placeholder
 
@@ -283,5 +288,5 @@ https://netwizards.com.pl/zasoby/darmowe-polskie-czcionki-google-fonts-z-polskim
 https://frontendmasters.com/books/front-end-handbook/2018/ <br>
 http://sowaprogramuje.pl/menu-nie-musi-byc-nudne/ <br>
 https://piecioshka.pl/blog/2017/05/07/jak-przerobic-strone-na-pwa.html <br>
-http://www.wakeupandcode.pl/wymowki/ ```NOWY_LINK``` <br>
-http://bedeprogramistka.pl/layout-strony-glownej-grid-bootstrap-flexbox/ ```NOWY_LINK``` <br>
+http://www.wakeupandcode.pl/wymowki/ <br>
+http://bedeprogramistka.pl/layout-strony-glownej-grid-bootstrap-flexbox/ <br>
