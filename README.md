@@ -290,3 +290,4 @@ http://sowaprogramuje.pl/menu-nie-musi-byc-nudne/ <br>
 https://piecioshka.pl/blog/2017/05/07/jak-przerobic-strone-na-pwa.html <br>
 http://www.wakeupandcode.pl/wymowki/ <br>
 http://bedeprogramistka.pl/layout-strony-glownej-grid-bootstrap-flexbox/ <br>
+https://www.codementor.io/rajeshpillai/all-about-javascript-functions-in-1-article-k0cff00kp ```NOWY_LINK``` <br>
