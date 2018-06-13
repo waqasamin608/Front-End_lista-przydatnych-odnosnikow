@@ -144,6 +144,7 @@ http://validator.w3.org/ <br>
 http://gtmetrix.com/ <br>
 https://developers.google.com/speed/pagespeed/insights/ <br>
 https://symu.co/ <br>
+https://testmysite.thinkwithgoogle.com/intl/en-us ```NOWY_LINK``` <br>
 
 # Stock ze zdjęciami i filmami
 
