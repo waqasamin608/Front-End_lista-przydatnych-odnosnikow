@@ -55,6 +55,7 @@ https://frontendfront.com/ <br>
 https://fsgeek.pl/ <br>
 https://kernelgonnapanic.pl/ <br>
 https://mansfeld.pl/tag/dla-klientow/ <br>
+https://narloch.eu/blog/ ```NOWY_LINK``` <br>
 https://nettecode.com/ <br>
 https://pawel.wrzesz.cz/blog/ <br>
 https://piecioshka.pl/blog/ <br>
@@ -121,8 +122,8 @@ http://bootsnipp.com/ <br>
 
 # Nauka przez zabawę
 
-http://www.flexboxdefense.com/ ```NOWY_LINK``` <br>
-https://koziolekweb.pl/gdzie-trenowac-swoje-umiejetnosci/ ```NOWY_LINK``` <br>
+http://www.flexboxdefense.com/ <br>
+https://koziolekweb.pl/gdzie-trenowac-swoje-umiejetnosci/ <br>
 
 # Placeholder
 
@@ -144,7 +145,7 @@ http://validator.w3.org/ <br>
 http://gtmetrix.com/ <br>
 https://developers.google.com/speed/pagespeed/insights/ <br>
 https://symu.co/ <br>
-https://testmysite.thinkwithgoogle.com/intl/en-us ```NOWY_LINK``` <br>
+https://testmysite.thinkwithgoogle.com/intl/en-us <br>
 
 # Stock ze zdjęciami i filmami
 
@@ -291,4 +292,7 @@ http://sowaprogramuje.pl/menu-nie-musi-byc-nudne/ <br>
 https://piecioshka.pl/blog/2017/05/07/jak-przerobic-strone-na-pwa.html <br>
 http://www.wakeupandcode.pl/wymowki/ <br>
 http://bedeprogramistka.pl/layout-strony-glownej-grid-bootstrap-flexbox/ <br>
-https://www.codementor.io/rajeshpillai/all-about-javascript-functions-in-1-article-k0cff00kp ```NOWY_LINK``` <br>
+https://www.codementor.io/rajeshpillai/all-about-javascript-functions-in-1-article-k0cff00kp <br>
+https://nzbin.github.io/three-dots/ ```NOWY_LINK``` <br>
+https://davidwalsh.name/javascript-debounce-function ```NOWY_LINK``` <br>
+https://narloch.eu/blog/tworzenie-uzytecznych-komunikatow-bledow/ ```NOWY_LINK``` <br>
