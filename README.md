@@ -68,6 +68,7 @@ https://reddit.com/r/frontend <br>
 https://reddit.com/r/webdev <br>
 https://stormit.pl/ <br>
 https://typeofweb.com/ <br>
+https://www.endfront.pl/ ```NOWY_LINK``` <br>
 
 Tematyka mobilna:
 
@@ -296,3 +297,4 @@ https://www.codementor.io/rajeshpillai/all-about-javascript-functions-in-1-artic
 https://nzbin.github.io/three-dots/ ```NOWY_LINK``` <br>
 https://davidwalsh.name/javascript-debounce-function ```NOWY_LINK``` <br>
 https://narloch.eu/blog/tworzenie-uzytecznych-komunikatow-bledow/ ```NOWY_LINK``` <br>
+https://www.endfront.pl/2018/06/18/wyrazenia-regularne-regexp-javascript-wstep/ ```NOWY_LINK``` <br>
