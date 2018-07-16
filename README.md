@@ -294,7 +294,8 @@ https://piecioshka.pl/blog/2017/05/07/jak-przerobic-strone-na-pwa.html <br>
 http://www.wakeupandcode.pl/wymowki/ <br>
 http://bedeprogramistka.pl/layout-strony-glownej-grid-bootstrap-flexbox/ <br>
 https://www.codementor.io/rajeshpillai/all-about-javascript-functions-in-1-article-k0cff00kp <br>
-https://nzbin.github.io/three-dots/ ```NOWY_LINK``` <br>
-https://davidwalsh.name/javascript-debounce-function ```NOWY_LINK``` <br>
-https://narloch.eu/blog/tworzenie-uzytecznych-komunikatow-bledow/ ```NOWY_LINK``` <br>
-https://www.endfront.pl/2018/06/18/wyrazenia-regularne-regexp-javascript-wstep/ ```NOWY_LINK``` <br>
+https://nzbin.github.io/three-dots/ <br>
+https://davidwalsh.name/javascript-debounce-function <br>
+https://narloch.eu/blog/tworzenie-uzytecznych-komunikatow-bledow/ <br>
+https://www.endfront.pl/2018/06/18/wyrazenia-regularne-regexp-javascript-wstep/ <br>
+https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a ```NOWY_LINK``` <br>
