@@ -298,4 +298,5 @@ https://nzbin.github.io/three-dots/ <br>
 https://davidwalsh.name/javascript-debounce-function <br>
 https://narloch.eu/blog/tworzenie-uzytecznych-komunikatow-bledow/ <br>
 https://www.endfront.pl/2018/06/18/wyrazenia-regularne-regexp-javascript-wstep/ <br>
-https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a ```NOWY_LINK``` <br>
+https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a <br>
+http://bedekodzic.pl/cache/ ```NOWY_LINK``` <br>
