@@ -3,6 +3,7 @@
 # Blogi, portale informacyjne
 
 http://1stwebdesigner.com/resource/become-web-designer/ <br>
+http://bedekodzic.pl/ ```NOWY_LINK``` <br>
 http://bedeprogramistka.pl/blog/ <br>
 ~~http://blog.benkel.pl/~~ (https://web.archive.org/web/20161018105342/http://blog.benkel.pl/) <br>
 http://blog.end3r.com/ <br>
@@ -55,7 +56,7 @@ https://frontendfront.com/ <br>
 https://fsgeek.pl/ <br>
 https://kernelgonnapanic.pl/ <br>
 https://mansfeld.pl/tag/dla-klientow/ <br>
-https://narloch.eu/blog/ ```NOWY_LINK``` <br>
+https://narloch.eu/blog/ <br>
 https://nettecode.com/ <br>
 https://pawel.wrzesz.cz/blog/ <br>
 https://piecioshka.pl/blog/ <br>
@@ -68,7 +69,7 @@ https://reddit.com/r/frontend <br>
 https://reddit.com/r/webdev <br>
 https://stormit.pl/ <br>
 https://typeofweb.com/ <br>
-https://www.endfront.pl/ ```NOWY_LINK``` <br>
+https://www.endfront.pl/ <br>
 
 Tematyka mobilna:
 
