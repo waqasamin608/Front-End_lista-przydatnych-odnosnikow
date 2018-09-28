@@ -3,7 +3,7 @@
 # Blogi, portale informacyjne
 
 http://1stwebdesigner.com/resource/become-web-designer/ <br>
-http://bedekodzic.pl/ ```NOWY_LINK``` <br>
+http://bedekodzic.pl/ <br>
 http://bedeprogramistka.pl/blog/ <br>
 ~~http://blog.benkel.pl/~~ (https://web.archive.org/web/20161018105342/http://blog.benkel.pl/) <br>
 http://blog.end3r.com/ <br>
@@ -28,6 +28,7 @@ http://itmoderngirl.pl/ <br>
 http://javadevmatt.pl/ <br>
 http://javascript-html5-tutorial.pl/ <br>
 http://kobietydokodu.pl/ <br>
+https://kot-zrodlowy.pl/ ```NOWY_LINK``` <br>
 http://lukasz-socha.pl/swiat-it/ <br>
 http://merixstudio.com/blog/ <br>
 http://michalgellert.pl/blog/ <br>
@@ -300,4 +301,4 @@ https://davidwalsh.name/javascript-debounce-function <br>
 https://narloch.eu/blog/tworzenie-uzytecznych-komunikatow-bledow/ <br>
 https://www.endfront.pl/2018/06/18/wyrazenia-regularne-regexp-javascript-wstep/ <br>
 https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a <br>
-http://bedekodzic.pl/cache/ ```NOWY_LINK``` <br>
+http://bedekodzic.pl/cache/ <br>
