@@ -28,7 +28,7 @@ http://itmoderngirl.pl/ <br>
 http://javadevmatt.pl/ <br>
 http://javascript-html5-tutorial.pl/ <br>
 http://kobietydokodu.pl/ <br>
-https://kot-zrodlowy.pl/ ```NOWY_LINK``` <br>
+https://kot-zrodlowy.pl/ <br>
 http://lukasz-socha.pl/swiat-it/ <br>
 http://merixstudio.com/blog/ <br>
 http://michalgellert.pl/blog/ <br>
@@ -99,6 +99,7 @@ http://goalkicker.com/ <br>
 https://gethead.info/ <br>
 https://github.com/kieranmv95/Front-End-Wizard <br>
 https://www.hekko.pl/blog/rodo/ <br>
+https://raw.githubusercontent.com/frontarm/async-javascript-cheatsheet/master/async-cheatsheet.png ```NOWY_LINK``` <br>
 
 # E-learning
 
